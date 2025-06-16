@@ -28,8 +28,6 @@ Each task is organized in its own folder with the respective notebook (`.ipynb`)
 - Visualized average scores, top scorers, and section-based comparisons
 - Tools: `Pandas`, `Matplotlib`, `Seaborn`
 
-📁 [`student_performance_analysis/`](./student_performance_analysis)
-
 ---
 
 ### 2️⃣ Movie Recommender System
@@ -41,8 +39,6 @@ Each task is organized in its own folder with the respective notebook (`.ipynb`)
 - Clustering using `KMeans` + dimensionality reduction via `SVD`
 - Tools: `Pandas`, `Scikit-learn`, `Matplotlib`, `Plotly`
 
-📁 [`movie_recommender_system/`](./movie_recommender_system)
-
 ---
 
 ### 3️⃣ COVID-19 Data Analysis
@@ -52,9 +48,6 @@ Each task is organized in its own folder with the respective notebook (`.ipynb`)
 - Time-series analysis of confirmed, recovered, and death cases
 - Visualized top-affected countries and early 2020 trends
 - Tools: `Pandas`, `Matplotlib`, `Plotly`, `Seaborn`
-
-📁 [`covid19_data_analysis/`](./covid19_data_analysis)
-
 ---
 
 ## 📸 Screenshots
@@ -99,5 +92,5 @@ A big thank you to **@OutriX** for providing this opportunity to gain hands-on e
 
 ## 📌 Tags
 
-`#DataScience` `#Python` `#EDA` `#MachineLearning` `#Visualization` `#OutriXJourney` `#Internship2024`
+`#DataScience` `#Python` `#EDA` `#MachineLearning` `#Visualization` `#OutriXJourney` `#Internship2025`
 

@@ -6,7 +6,7 @@
 ## 🚀 Internship Overview
 
 - **Program:** Data Science Internship – OutriX EdTech
-- **Duration:** 1 Month
+- **Duration:** 2 Month
 - **Mode:** REMOTE
 - Throughout the internship, I worked on hands-on tasks that involved exploratory data analysis, feature engineering, content-based filtering, and advanced data visualization using Python and related libraries.
 

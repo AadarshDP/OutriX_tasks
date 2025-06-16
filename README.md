@@ -84,6 +84,12 @@ Here are a few visuals generated during analysis:
 Feel free to explore the code and visualizations. If you have any suggestions or feedback, connect with me on [LinkedIn] (https://www.linkedin.com/in/aadarsh-dharan-pillai-95829a27a/).
 
 ---
+## 📝 Notes
+
+- All videos were recorded during task execution
+- Screenshots are also included for quick reference
+- Projects are organized by folders for clarity and review
+---
 
 ## 🙌 Special Thanks
 

@@ -48,7 +48,34 @@ Each task is organized in its own folder with the respective notebook (`.ipynb`)
 - Time-series analysis of confirmed, recovered, and death cases
 - Visualized top-affected countries and early 2020 trends
 - Tools: `Pandas`, `Matplotlib`, `Plotly`, `Seaborn`
----
+  
+🦠 COVID-19 Data Analysis – Task 3 Completed!
+I'm excited to share the third task I completed during my Data Science Internship at @OutriX: COVID-19 Data Analysis.
+This task focused on exploring the progression and impact of the COVID-19 pandemic using multiple datasets, and turning raw numbers into interactive and informative visual insights.
+
+
+💡 Key Objectives:
+Cleaned and merged daily and country-level COVID-19 datasets
+Parsed dates and filled missing values for accurate analysis
+Calculated and visualized daily new cases, deaths, and recoveries
+Analyzed and ranked countries based on confirmed cases and fatalities
+Explored early outbreak data (Jan 2020) to visualize global spread
+
+
+📊 Visualizations Created:
+Line plot of global cumulative cases (confirmed, recovered, deaths)
+Daily new cases and recovery trends
+Bar charts of top 10 & top 15 countries by cases and deaths
+Treemap showing country-wise distribution of confirmed cases
+Early case comparison (Jan 21–26, 2020) by country
+
+
+🛠️ Tech Stack:
+Python | Pandas | Matplotlib | Seaborn | Jupyter Notebook
+
+🙌 Thank you @OutriX for this challenge! This task deepened my ability to work with time-series data, clean multiple datasets, and communicate insights clearly through visualizations.
+
+
 
 ## 📸 Screenshots
 
